@@ -1,4 +1,4 @@
-# 👨‍💻 João Vitor Baptista
+# 👾 João Vitor Baptista
 
 ### Desenvolvimento • RPA • DevOps
 
