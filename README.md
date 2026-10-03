@@ -40,6 +40,24 @@ Interesse em desenvolver automações e aplicações que simplifiquem processos 
 
 ---
 
+---
+
+## Projetos
+
+### 📊 [Monitoramento de Infraestrutura](https://github.com/jvbapttista/monitoramento)
+
+`Python` `Flask` `Zabbix` `Docker` `GitHub Actions`
+
+Dashboard para monitoramento, inventário e alertas, com Docker e pipeline CI/CD.
+
+### 🤖 [Automação de Tickets](https://github.com/jvbapttista/xxxx)
+
+`Python` `Playwright`
+
+RPA para automação do fluxo de tickets, aprovações e preenchimento de informações.
+
+---
+
 ## Contato
 
 📧 **jvbapttista@icloud.com**
